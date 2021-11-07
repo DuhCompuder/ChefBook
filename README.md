@@ -7,6 +7,5 @@ It uses the new [`Just-in-Time Mode`](https://tailwindcss.com/docs/just-in-time-
 ## Preview
 
 Preview the example live on [Netlify](https://www.netlify.com/):
-
-[![Open in Netlify](https://www.netlify.com/v3/img/components/logomark-dark.svg)](https://stupefied-elion-1bf6f3.netlify.app/)
+[`https://stupefied-elion-1bf6f3.netlify.app`](https://stupefied-elion-1bf6f3.netlify.app)
 
